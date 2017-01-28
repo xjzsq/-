@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":10,"description":"普通的带有闪电的刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":-0.05},{"code":31,"dataId":5,"value":0},{"code":33,"dataId":0,"value":-5}],"iconIndex":120,"name":"闪电之刀","note":"","params":[10,0,15,0,15,0,25,0],"price":350,"wtypeId":1},
+{"id":2,"animationId":10,"description":"比闪电之刀更高级的刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":-0.05},{"code":31,"dataId":5,"value":0},{"code":33,"dataId":0,"value":-5}],"iconIndex":120,"name":"雷电之刀","note":"","params":[20,0,30,0,30,0,25,0],"price":700,"wtypeId":1},
+{"id":3,"animationId":10,"description":"比雷电之刀更厉害的刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":-0.05},{"code":31,"dataId":5,"value":0}],"iconIndex":120,"name":"暴雷之刀","note":"","params":[30,0,45,0,45,0,25,0],"price":1000,"wtypeId":1},
+{"id":4,"animationId":10,"description":"圣洁的雷电刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05},{"code":31,"dataId":5,"value":0}],"iconIndex":123,"name":"圣雷之刀","note":"","params":[40,0,60,0,60,0,25,0],"price":1300,"wtypeId":1},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"去RMVA看数据","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

@@ -1,0 +1,74 @@
+Skill 1 攻击: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 连续攻击: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 二回攻击: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 三回攻击: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 火焰气息: Damage Formula: a.atk
+Skill 9 冰雪气息: Damage Formula: a.atk
+Skill 10 十万伏特: Damage Formula: a.atk
+Skill 21 冲撞: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 吸血: Damage Formula: a.atk * 2 - b.def
+Skill 24 冥想: Damage Formula: b.mhp / 4
+Skill 26 治愈: Damage Formula: 250 + a.mat
+Skill 27 治愈Ⅱ: Damage Formula: 1000 + a.mat * 2
+Skill 28 治愈Ⅲ: Damage Formula: 4000 + a.mat * 4
+Skill 29 回复: Damage Formula: 250 + a.mat
+Skill 30 回复Ⅱ: Damage Formula: 1000 + a.mat * 2
+Skill 33 复苏: Damage Formula: b.mhp / 10
+Skill 34 复苏Ⅱ: Damage Formula: b.mhp / 2
+Skill 49 生命吸收: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 魔力吸收: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 火球: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 火球Ⅱ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 火柱: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 火柱Ⅱ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 冰晶: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 冰晶Ⅱ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 暴风雪: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 暴风雪Ⅱ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 电击: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 电击Ⅱ: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 闪电: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 闪电Ⅱ: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 泡沫: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 巨浪: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 石块: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 地震: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 风暴: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 龙卷风: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 神圣: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 星光: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 暗影: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 黑暗: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 爆裂: Damage Formula: 300 + a.mat * 2
+Skill 74 核爆: Damage Formula: 300 + a.mat * 2
+Skill 80 闪电: Damage Formula: a.atk * 4- b.def * 2 + 35
+Skill 81 闪电击: Damage Formula: a.mat * 5 - b.mdf * 3 + 50
+Skill 83 狂战士之舞: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 巨人的痛击: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 滑铲: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 无影脚: Damage Formula: a.atk * 5
+Skill 89 破龙爪圆舞: Damage Formula: a.atk * 12
+Skill 94 Z字枪法: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 灵气刃: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 圣光刃: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 穿甲: Damage Formula: a.atk * 4
+Skill 103 燕返: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 樱花梦幻刃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 缴械: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 破甲: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 三箭并发: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 万箭齐发: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 刺客之刃: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 英勇之刃: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 神罚: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 魔力逆流: Damage Formula: b.mmp * 0.5
+Skill 128 电光斩: Damage Formula: a.atk * 6- b.def * 4 + 75
+Skill 129 电光刃: Damage Formula: a.mat * 7 - b.mdf * 5 + 80
+Skill 130 电波冲击: Damage Formula: a.mat * 8 - b.mdf * 6 + 95
+Skill 131 极光斩: Damage Formula: a.mat * 9 - b.mdf * 7 + 100
+Skill 134 极光千鸟: Damage Formula: a.mat * 10 - b.mdf * 8 + 120
+Skill 135 雷神瞬斩: Damage Formula: a.mat * 11 - b.mdf * 9 + 140
+Skill 137 快击: Damage Formula: a.atk * 4 - b.def * 2 + 100
+Skill 139 冲锋拳: Damage Formula: a.atk * 10 - b.def * 6 + 100
+Skill 141 幻影光波: Damage Formula: a.atk * 10 + 1000
+Map 19 百元镇 - Event 20 EV020 (17,59) - Page 1 Line 1:  - Script call: a = DEGICA::CONVERT.run
